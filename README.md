@@ -1,0 +1,2 @@
+# baisc-js
+whole javascript
